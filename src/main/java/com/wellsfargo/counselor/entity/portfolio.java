@@ -33,7 +33,7 @@ public class Portfolio {
         return portfolioId;
     }
 
-    public Advisor getClientr() {
+    public Client getClient() {
         return client;
     }
 
